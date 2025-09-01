@@ -10,7 +10,7 @@ My playground: HTML5, CSS3, SCSS, JavaScript. My tools: Python for automation, S
 
 **Frontend:**
 - **HTML5** | **CSS3** | **SASS/SCSS**
-- **JavaScript** (ES6+)
+- **JavaScript**
 
 **Other:**
 - **Python** (for automation & scripts)
