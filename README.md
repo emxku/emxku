@@ -1,8 +1,8 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Nikita 👋
 
 ### Frontend Developer
 
-I'm a frontend developer who loves building clean, responsive user interfaces. I also enjoy using Python for automation and scripting.
+My playground: HTML5, CSS3, SCSS, JavaScript. My tools: Python for automation, SQL for data. My passion: clean code and responsive design.
 
 ---
 
@@ -21,18 +21,10 @@ I'm a frontend developer who loves building clean, responsive user interfaces. I
 
 ---
 
-### 📊 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)](https://github.com/YOUR_USERNAME)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/YOUR_USERNAME)
-
----
 
 ### 📫 How to reach me
-- Email: your.email@example.com
-- Telegram: @yourusername
-- Portfolio: yourportfolio.com
+- Email: wxnnadxe@mail.ru
+- Telegram: @tr1pl3s6xg0d
 
 ---
 
