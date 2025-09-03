@@ -17,7 +17,7 @@ My playground: HTML5, CSS3, SCSS, JavaScript. My tools: Python for automation, S
 - **SQL** (PostgreSQL, SQL Server)
 
 **Tools:**
-- Git | GitHub | Figma | SSMS
+- Git | Figma | SSMS
 
 ---
 
