@@ -2,7 +2,7 @@
 
 ### Frontend Developer
 
-My playground: HTML5, CSS3, SCSS, JavaScript. My tools: Python for automation, SQL for data. My passion: clean code and responsive design.
+My tech stack: HTML5, CSS3, SCSS, JavaScript. My tools: Python for automation, SQL for data. My passion: clean code and responsive design.
 
 ---
 
